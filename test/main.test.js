@@ -1,7 +1,7 @@
-const main = require("../src/main.js");
+const main = require("../lib/main.js");
 
 describe("main", () => {
   it("should return a string", () => {
-    expect(main).toBe("Hello World");
+    expect(main).toBe("0.0.1");
   });
 });
