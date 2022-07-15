@@ -12,6 +12,8 @@ Pequeña librería de testing creada al estilo de jest con javascript.
 
 Esto lo realicé como un reto personal y a la vez para aprender sobre el testing.
 
+![console](./assets/console.png)
+
 Tengo un canal en <a href="https://www.youtube.com/channel/UCMzpttcB6zhVQzYuzhggnQA" target="_blank" rel="noopener"> _**YouTube**_</a> donde enseño sobre el maravilloso mundo de la _web_.
 
 también puedes encontrarme en <a href="https://www.tiktok.com/@ajwipo" target="_blank" rel="noopener"> _**TikTok**_</a>
