@@ -14,7 +14,7 @@
   "main": "index.js",
   "scripts": {
     "build": "esbuild lib/main.js --bundle --minify --platform=node --target=node18.0.0 --outfile=bin/ajtry.js",
-    "start": "./bin/main.js",
+    "start": "node ./example/index.js",
     "test": "jest"
   },
   "devDependencies": {
