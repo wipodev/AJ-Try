@@ -6,7 +6,7 @@
 
 </div>
 
-<img width="400" height="auto" align="right" src="https://github.com/AJ-Wi/AJ-Wi/blob/main/assets/logo_horizontal.png">
+<img width="400" height="auto" align="right" src="https://github.com/wipodev/wipodev/blob/main/assets/logo-main.svg">
 
 Pequeña librería de testing creada al estilo de jest con javascript.
 
